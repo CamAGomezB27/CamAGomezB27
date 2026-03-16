@@ -72,7 +72,3 @@ Aquí encontrarás proyectos donde aplico diferentes tecnologías y conceptos de
 
 💼 LinkedIn  
 👉 https://www.linkedin.com/in/camilogdev/
-
----
-
-⭐ Si algún proyecto te resulta interesante, ¡no dudes en explorarlo o conectar conmigo!
