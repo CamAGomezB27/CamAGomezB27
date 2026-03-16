@@ -1,64 +1,78 @@
-# 👋 Hola, soy Camilo
+# 👋 Hola, soy Camilo Gómez
 
-💻 Ingeniero de software enfocado en el desarrollo de soluciones web y aprendizaje continuo.  
-Me apasiona crear aplicaciones que resuelvan problemas reales y explorar nuevas tecnologías para mejorar la calidad del software.
+💻 **Ingeniero de software enfocado en desarrollo web moderno**  
+Apasionado por construir aplicaciones que resuelvan problemas reales y mejorar continuamente como desarrollador.
 
-Siempre estoy aprendiendo, experimentando y construyendo.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CamAGomezB27&theme=dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+Siempre aprendiendo, experimentando y construyendo.
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
 - 🧠 Desarrollador autodidacta con mentalidad de mejora continua  
-- ⚙️ Experiencia desarrollando aplicaciones web modernas  
+- ⚙️ Experiencia construyendo aplicaciones web modernas  
 - 🧩 Interés en arquitectura de software y buenas prácticas  
-- 📚 Me gusta aprender nuevas tecnologías y compartir conocimiento  
-- 🎯 Orientado a resolver problemas y entregar valor real con el software  
+- 📚 Siempre explorando nuevas tecnologías  
+- 🎯 Enfocado en resolver problemas reales con software
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+# 🛠 Tecnologías y herramientas
 
 ### Frontend
-- React  
-- Next.js  
-- TailwindCSS  
-- JavaScript / TypeScript  
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend
-- Node.js  
-- APIs REST  
-- Arquitectura modular  
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/API_REST-005571?style=for-the-badge)
 
 ### Herramientas
-- Git & GitHub  
-- Figma  
-- Postman  
-- Metodologías ágiles (Scrum)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 
 ---
 
-## 📌 Actualmente
+# 📊 Actividad en GitHub
 
-- Construyendo proyectos personales para mejorar mis habilidades
-- Explorando nuevas herramientas del ecosistema JavaScript
-- Mejorando mis conocimientos en arquitectura y buenas prácticas
-
----
-
-## 📂 Proyectos
-
-Aquí encontrarás algunos de mis proyectos donde aplico diferentes tecnologías y conceptos de desarrollo.
-
-- 🌐 Aplicaciones web
-- ⚙️ APIs
-- 🧪 Experimentos con nuevas tecnologías
+| Estadísticas | Lenguajes |
+|--------------|-----------|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CamAGomezB27&theme=dark&hide_border=true&locale=es&mode=weekly) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamAGomezB27&layout=compact&theme=dark&hide_border=true) |
 
 ---
 
-## 📫 Conecta conmigo
+# 📌 Actualmente
 
-- 💼 LinkedIn  
-  👉 https://www.linkedin.com/in/camilogdev/
+- 🚀 Construyendo proyectos personales  
+- 🧠 Profundizando en arquitectura de software  
+- ⚡ Explorando herramientas del ecosistema JavaScript  
+
+---
+
+# 📂 Proyectos
+
+Aquí encontrarás proyectos donde aplico diferentes tecnologías y conceptos de desarrollo:
+
+- 🌐 Aplicaciones web  
+- ⚙️ APIs  
+- 🧪 Experimentos con nuevas tecnologías  
+
+*(Puedes fijar tus mejores repositorios en GitHub para que aparezcan en la parte superior de tu perfil)*
+
+---
+
+# 📫 Conecta conmigo
+
+💼 LinkedIn  
+👉 https://www.linkedin.com/in/camilogdev/
+
+---
+
+⭐ Si algún proyecto te resulta interesante, ¡no dudes en explorarlo o conectar conmigo!
