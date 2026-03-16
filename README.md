@@ -64,8 +64,6 @@ Aquí encontrarás proyectos donde aplico diferentes tecnologías y conceptos de
 - ⚙️ APIs  
 - 🧪 Experimentos con nuevas tecnologías  
 
-*(Puedes fijar tus mejores repositorios en GitHub para que aparezcan en la parte superior de tu perfil)*
-
 ---
 
 # 📫 Conecta conmigo
